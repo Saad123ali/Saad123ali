@@ -11,7 +11,7 @@ I'm Saad, a passionate Software Engineering student eager to dive deep into the 
 
 ### 🌱 I’m currently learning:
 - Data Structures and Algorithms (DSA) in C++
-- Full-stack web development (HTML, CSS, JavaScript, React)
+- Web development (HTML, CSS, JavaScript, React)
 
 ### 👯 I’m looking to collaborate on:
 - Open-source projects related to web development or backend systems.
@@ -45,7 +45,6 @@ I enjoy solving challenging problems on LeetCode and Codewars in my free time!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saad123ali&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
----[![](https://visitcount.itsvg.in/api?id=Saad123ali&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Saad123ali&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
