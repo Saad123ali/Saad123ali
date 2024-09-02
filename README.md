@@ -45,7 +45,9 @@ I enjoy solving challenging problems on LeetCode and Codewars in my free time!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saad123ali&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Saad123ali&icon=0&color=0)](https://visitcount.itsvg.in)
+---[![](https://visitcount.itsvg.in/api?id=Saad123ali&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Saad123ali&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
