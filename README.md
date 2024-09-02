@@ -7,7 +7,7 @@ I'm Saad, a passionate Software Engineering student eager to dive deep into the 
 - 💻 **DSA Enthusiast in C++** | Web Development: HTML, CSS, JavaScript  
 - 🚀 **Aspiring Backend Developer**  
 - 🔗 **LeetCode**: [itmesaad](https://leetcode.com/itmesaad)  
-- 🥋 **Codewars**: [SaadAli_8]((https://www.codewars.com/users/itmesaad))
+- 🥋 **Codewars**: [itmesaad]((https://www.codewars.com/users/itmesaad))
 
 ### 🌱 I’m currently learning:
 - Data Structures and Algorithms (DSA) in C++
