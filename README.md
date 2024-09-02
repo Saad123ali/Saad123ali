@@ -11,7 +11,7 @@ I'm Saad, a passionate Software Engineering student eager to dive deep into the 
 
 ## 🌱 I’m currently learning:
 - Data Structures and Algorithms (DSA) in C++
-- Web development (HTML, CSS, JavaScript, React)
+- Working on Web development (HTML, CSS, JavaScript, React)
 
 ## 👯 I’m looking to collaborate on:
 - Open-source projects related to web development or backend systems.
