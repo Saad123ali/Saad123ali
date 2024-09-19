@@ -6,8 +6,8 @@ I'm Saad, a passionate Software Engineering student eager to dive deep into the 
 - 🎓 **Software Engineering Student** @ Riphah International University  
 - 💻 **DSA Enthusiast in C++** | Web Development: HTML, CSS, JavaScript  
 - 🚀 **Aspiring Backend Developer**  
-- 🔗 **LeetCode**: [itsmesaad](https://leetcode.com/u/itsmesaad/)  
-- 🥋 **Codewars**: [itsmesaad](https://www.codewars.com/users/itsmesaad)
+- 🔗 **LeetCode**: [itsmesaadali](https://leetcode.com/u/itsmesaad/)  
+- 🥋 **Codewars**: [itsmesaadali](https://www.codewars.com/users/itsmesaad)
 
 ## 🌱 I’m currently learning:
 - Data Structures and Algorithms (DSA) in C++
