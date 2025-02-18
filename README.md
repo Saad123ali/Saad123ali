@@ -37,26 +37,26 @@ I enjoy solving challenging problems on LeetCode and Codewars in my free time!
 ---
 
 ## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<div align=center>
+<img height="30"width="30"  src="https://cdn.simpleicons.org/css3#1572B6" alt="CSS3" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/html5#E34F26" alt="HTML5" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/tailwindcss#38B2AC" alt="Tailwind CSS" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/vite#646CFF" alt="Vite" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/javascript#F7DF1E" alt="JavaScript" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/bootstrap#8511FA" alt="Bootstrap" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/react#61DAFB" alt="React" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/nodedotjs#6DA55F" alt="NodeJS" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/nodemon#76D04B" alt="Nodemon" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/ejs#B4CA65" alt="EJS" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/mysql#4479A1" alt="MySQL" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/mongodb#47A248" alt="MongoDB" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="30"width="30" alt="GitHub" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/git#F05033" alt="Git" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/gitlab#FC6D26" alt="GitLab" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/cisco#1BA0D7" alt="Cisco" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/canva#00C4CC" alt="Canva" />
+<img height="30"width="30"  src="https://cdn.simpleicons.org/firefox#FF7139" alt="Portfolio" />
+</div>
 
 
 
