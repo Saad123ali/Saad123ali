@@ -58,7 +58,11 @@ I enjoy solving challenging problems on LeetCode and Codewars in my free time!
 <img height="30"width="30"  src="https://cdn.simpleicons.org/firefox#FF7139" alt="Portfolio" />
 </div>
 
+<br><br><br>
 
+<p align="center">
+  <img src="/Saadname.gif" alt="Who Am I" style="border-radius: 10px;">
+</p>
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saad123ali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
