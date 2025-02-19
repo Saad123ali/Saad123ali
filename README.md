@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi, I'm Saad 👋
 
-I'm Saad, a passionate Software Engineering student eager to dive deep into the world of web development and backend engineering. I love solving problems and building robust web applications.
+I’m a Software Engineering student passionate about solving problems and building robust web applications. Currently, I’m sharpening my skills in C++ and advancing my web development with HTML, CSS, JavaScript, and React.
 
 ## 💫 About Me:
 - 🎓 **Software Engineering Student** @ Riphah International University  
@@ -8,35 +8,12 @@ I'm Saad, a passionate Software Engineering student eager to dive deep into the 
 - 🚀 **Aspiring Backend Developer**  
 - 🔗 **LeetCode**: [itsmesaadali](https://leetcode.com/u/itsmesaad/)  
 - 🥋 **Codewars**: [itsmesaadali](https://www.codewars.com/users/itsmesaad)
+-  <img src="https://img.icons8.com/?size=20&id=118497&format=png" alt="Fackbook icon"> **Facebook**: [itsmesaadali](https://www.facebook.com/itsmesaadali)
+-  <img src="https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png" alt="Instagram icon"> **Instagram**: [Instagram](https://www.instagram.com/itsmesaadali/)
+-  <img src="https://img.icons8.com/?size=20&id=13930&format=png" alt="Linkdien icon"> **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/itsmesaadali/)
 
-## 🌱 I’m currently learning:
-- Data Structures and Algorithms (DSA) in C++
-- Working on Web development (HTML, CSS, JavaScript, React)
 
-## 👯 I’m looking to collaborate on:
-- Open-source projects related to web development or backend systems.
-- Projects that involve C++ or JavaScript.
-
-## 🤔 I’m looking for help with:
-- Advanced backend technologies and complex problem-solving techniques on LeetCode.
-
-## 💬 Ask me about:
-- C++, JavaScript, backend development, and web technologies.
-
-## 📫 How to reach me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/itsmesaadali) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itsmesaadali/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmesaadali/)
-
-## 😄 Pronouns:
-He/Him
-
-## ⚡ Fun fact:
-I enjoy solving challenging problems on LeetCode and Codewars in my free time!
-
----
-
-## 💻 Tech Stack:
+<br>
 <div align=center>
 <img height="30"width="30"  src="https://cdn.simpleicons.org/css3#1572B6" alt="CSS3" />
 <img height="30"width="30"  src="https://cdn.simpleicons.org/html5#E34F26" alt="HTML5" />
@@ -58,22 +35,18 @@ I enjoy solving challenging problems on LeetCode and Codewars in my free time!
 <img height="30"width="30"  src="https://cdn.simpleicons.org/firefox#FF7139" alt="Portfolio" />
 </div>
 
-<br><br><br>
+
+
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saad123ali&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" height="150">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saad123ali&bg_color=1a1b27&color=9e4c98&line=bf91f3&point=38dbae&area=true&hide_border=true" alt="GitHub Activity Graph" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad123ali&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150">
+</div>
+
+<br>
 
 <p align="center">
   <img src="/Saadname.gif" alt="Who Am I" style="border-radius: 10px;">
 </p>
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saad123ali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saad123ali&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad123ali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Saad123ali&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Saad123ali&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
